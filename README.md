@@ -24,7 +24,7 @@ Follow these steps to run the project locally:
    npm install
    ```
 
-3. **Create a .env file in the parent directory and add a variable KEY_HASH of "0x" followed by a 64 characters hash [https://www.browserling.com/tools/random-hex](generate random hash)**
+3. **Create a .env file in the parent directory and add a variable KEY_HASH of "0x" followed by a 64 characters hash [generate random hash](https://www.browserling.com/tools/random-hex)**
    ```bash
    KEY_HASH="0xYOUR_GENERATED_HASH"
    ```
