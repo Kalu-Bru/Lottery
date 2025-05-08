@@ -67,7 +67,7 @@ Once you're done exploring the demo and want to remove everything:
 
 From the parent directory where you cloned the project:
 ```bash
-rm -rf Oracles
+rm -rf Lottery
 ```
 
 
